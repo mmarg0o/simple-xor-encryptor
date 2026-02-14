@@ -1,5 +1,5 @@
 
-from pystyle import Colorate, Colors, Write, Center
+from pystyle import Colorate, Colors, Write
 import time
 from pyfiglet import * 
 
