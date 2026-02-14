@@ -2,13 +2,10 @@
 from pystyle import Colorate, Colors, Write, Center
 import time
 from pyfiglet import * 
-import shutil
-import os 
-import random
 
 KEY = 0X42 # XOR KEY
 
-INPUT_FILE = "secret.txt"
+INPUT_FILE = "example.txt"
 ENCRYPTED_FILE = "encrypted.bin"
 DECRYPTED_FILE = "decrypted.txt"
 
